@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>{{ title }}</title>
-		<!--link rel='stylesheet' href='/stylesheets/style.css' /-->
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
@@ -44,7 +44,7 @@ list-style:none
      </div>
 <div class='row'>  
    <ul class="menu" style='list-style:none' >
-			<li><a href="https://onarbor.com/by/2/tim-peterson" class='fa fa-circle-o' > Onarbor</a></li>
+			<li><a href="https://onarbor.com/by/timrpeterson" class='fa fa-circle-o' > Onarbor</a></li>
                         <li><a href="https://github.com/tim-peterson" class='fa fa-github' > Github</a></li>
                         <li><a href="https://twitter.com/timrpeterson" class='fa fa-twitter' > Twitter</a></li>
 			<li><a href="http://www.quora.com/Tim-Peterson-2" class='fa fa-quora' > Quora</a></li>

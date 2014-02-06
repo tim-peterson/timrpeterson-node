@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Nettuts+ Article - Build a Complete MVC Web Site With ExpressJS
 ======================
 
@@ -17,5 +17,5 @@ The idea is to demonstrate MVC architecture in the context of Express.
 timrpeterson
 ============
 
-timrpeterson.com
->>>>>>> 9cb654adbbea1fa3e19fee91202cb16272161721
+
+
