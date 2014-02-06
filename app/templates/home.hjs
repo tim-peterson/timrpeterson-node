@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ title }}</title>
+		<!--link rel='stylesheet' href='/stylesheets/style.css' /-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.2/css/font-awesome.min.css" rel="stylesheet">	
+<link rel='icon' href='https://onarbor.com/favicon.ico'>
+
+</head>
+
+
+	<body>
+<style>
+.bs-footer {
+padding-top: 40px;
+padding-bottom: 40px;
+margin-top: 100px;
+color: #777;
+text-align: center;
+border-top: 1px solid #e5e5e5;
+}
+.bs-footer ul {
+list-style:none
+}
+
+</style>          
+<div class="container">
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+<div class='row'>
+
+<div class="media" style='margin-top:50px'>
+ <a class="pull-left thumbnail" href="#">
+<img class="avatar img-responsive media-object" height="220" src="https://0.gravatar.com/avatar/25411d307fa0ce0f741e7eb1b28d2cd9?d=https%3A%2F%2Fidenticons.github.com%2Fb7704f54dda37f4a013a47960cb4945e.png&amp;r=x&amp;s=440" width="220"></a>
+  <div class="media-body">
+    <h4 class="media-heading"></h4>
+  I am a biologist and work at <a target="_blank" href="https://onarbor.com">Onarbor</a>.
+            I'm interested in anything science and will watch bad TV shows without hesitation.
+  </div>
+</div>
+     </div>
+<div class='row'>  
+   <ul class="menu" style='list-style:none' >
+			<li><a href="https://onarbor.com/by/2/tim-peterson" class='fa fa-circle-o' > Onarbor</a></li>
+                        <li><a href="https://github.com/tim-peterson" class='fa fa-github' > Github</a></li>
+                        <li><a href="https://twitter.com/timrpeterson" class='fa fa-twitter' > Twitter</a></li>
+			<li><a href="http://www.quora.com/Tim-Peterson-2" class='fa fa-quora' > Quora</a></li>
+			<li><a  href="mailto:tim@onarbor.com"class='fa fa-envelope-o' > Email</a></li>
+                    </ul>
+                        <!--h2>{{bannerTitle}}</h2>
+                        <p>{{bannerText}}</p-->
+
+   </div>        <!-- footer -->
+</div>
+</div>
+</div>
+
+<!-- Footer
+================================================== -->
+<footer class="bs-footer" role="contentinfo">
+  <div class="container">
+<ul>
+      <li>Dogecoin: DT3dqRhpTBwLcT5VY6XogMFw1MP7WyHuYQ </li>
+      <li>Bitcoin: 15QRmbGAtszwnMJDKgihi9bUyn2xwfJHPA</li>
+    </ul>
+  </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="../dist/js/bootstrap.min.js"></script>
+<script src="../assets/js/docs.min.js"></script-->
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47849730-1', 'timrpeterson.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Analytics
+================================================== -->	
+
+
+
+</body>
+</html>
