@@ -130,7 +130,8 @@ module.exports = BaseController.extend({
 		var data = fs.readFileSync(req.files.picture.path);
 		var fileName = req.files.picture.name;
 		var uid = crypto.randomBytes(10).toString('hex');
-		var dir = __dirname + "/../public/uploads/" + uid;
+		//var dir = __dirname + "/../public/uploads/" + uid; //TRP 2/8/14
+		var dir = __dirname + "/public/uploads/" + uid; //TRP 2/8/14
 		fs.mkdirSync(dir, '0777');
 		fs.writeFileSync(dir + "/" + fileName, data);
 		return '/uploads/' + uid + "/" + fileName;
