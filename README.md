@@ -20,3 +20,6 @@ timrpeterson
 
 -->
 
+see this tutorial for learning Express:
+
+https://www.develop.com/webcasts/watch/5318c4d5d588bf08c461f4b1/create-server-side-mvc-apps-with-node-js-and-express
